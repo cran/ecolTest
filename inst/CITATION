@@ -1,0 +1,11 @@
+citHeader("To cite ecolTest in publications use:")
+
+citEntry(entry = "Misc",
+	title        = "ecolTest: Community Ecology Tests",
+	author       = personList(as.person("Hugo Salinas"),
+                   as.person("David Ramirez-Delgado")),
+	year         = 2021,
+	  textVersion  =
+  paste("Salinas Hugo, Ramirez-Delgado David (2021).",
+        "ecolTest: Community Ecology Tests")
+)

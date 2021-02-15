@@ -1,0 +1,14 @@
+fa08cacca40e272c4e3b8b63937c5606 *DESCRIPTION
+80d147147590711f148020b07a38837f *LICENSE
+691e1e0b734a0ca9dbba01a9d997444a *NAMESPACE
+da3d38d1d0aaf196b57780a3964e43e0 *R/Hutcheson_t_test.R
+8698bbbd6ed835a14c464c86db95f176 *R/data.R
+db61bf8affad13a98fb674440353a926 *R/generate_random_community.R
+d7116b36f1407ae8e4135177676a8708 *R/multiple_Hutcheson_t_test.R
+77060204d4b242e3ad72126a7ea2bbe9 *README.md
+8ca3edd3b3d7ce16113410469ab007b6 *data/polychaeta_abundance.rda
+b0e6f53780d11794fc4e2dd9fdaa2419 *inst/CITATION
+7ad5ee55d9f27cdadd0a78f4dc8a6cd8 *man/Hutcheson_t_test.Rd
+d568d19a2bbb72961c8872f8ec96fb72 *man/generate_random_community.Rd
+c1793ba04a0d4630e820db1f1d4d723b *man/multiple_Hutcheson_t_test.Rd
+cc7c392ba29307b110234b2c9c714842 *man/polychaeta_abundance.Rd
